@@ -8,5 +8,4 @@ $server_map = "Los Santos"; // Map name of your server.
 
 // Fivem Query Status
 // If you need help or want to modify some of this code I can help you.
-// Contact me on discord: il tanito#0001
-// Or on my website: tanito.fun
+// Contact me on discord: il tanito#0001. modified by Gael#2505
